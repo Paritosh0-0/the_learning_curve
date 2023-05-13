@@ -5,7 +5,7 @@ const Tips: React.FC = () => {
     <div className="py-20">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <h1 className="text-4xl font-bold text-gray-800 mb-8">
-          Taking Care of Dyslexic Children
+          Taking Care of Special Children
         </h1>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           <div className="mb-8">
@@ -13,7 +13,7 @@ const Tips: React.FC = () => {
               Create a Structured and Consistent Routine
             </h2>
             <p className="text-gray-600 text-lg mb-4">
-              Dyslexic children often struggle with organization and planning.
+              Special children often struggle with organization and planning.
               Creating a consistent daily routine can help them feel more secure
               and in control. Make sure to build in time for rest, exercise, and
               creative activities.
@@ -32,7 +32,7 @@ const Tips: React.FC = () => {
               Use Multisensory Learning Techniques
             </h2>
             <p className="text-gray-600 text-lg mb-4">
-              Dyslexic children often learn best when multiple senses are
+              Special children often learn best when multiple senses are
               engaged in the learning process. This can involve using a variety
               of tools and techniques to help them process information and
               retain knowledge.
@@ -51,7 +51,7 @@ const Tips: React.FC = () => {
               Build Self-Esteem and Confidence
             </h2>
             <p className="text-gray-600 text-lg mb-4">
-              Dyslexic children often struggle with self-esteem and confidence
+              Special children often struggle with self-esteem and confidence
               due to difficulties with reading and writing. As a parent or
               caregiver, it's important to provide positive feedback and
               encourage a growth mindset.
@@ -70,7 +70,7 @@ const Tips: React.FC = () => {
               Stay Connected with Educators
             </h2>
             <p className="text-gray-600 text-lg mb-4">
-              Dyslexic children often benefit from additional support and
+              Special children often benefit from additional support and
               accommodations in the classroom. It's important to stay in touch
               with your child's teachers and healthcare providers to ensure they
               are receiving the help they need.

@@ -20,8 +20,10 @@ const Footer: React.FC = () => {
           Get it on Google Play
         </a>
         <p className="mt-6">
-          Our app is designed to help dyslexic children and their families. We
-          offer a variety of features to improve reading and writing skills
+          "Bridging the Gap for Special Children and Parents, Connecting them
+          with the Right Professionals for Seamless Support" <br/>Through our app we
+          connect these special children and their parents with people like
+          doctors and teachers that can help and make this process effortless.
         </p>
         <p className="mt-6">
           Join our community today and start your journey towards success!
